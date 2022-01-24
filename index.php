@@ -7,6 +7,6 @@
     <title>Hola mundo</title>
 </head>
 <body>
-Mi primera pagina web, gracias por entrar.
+Mi primera pagina web en azure, gracias por entrar.
 </body>
 </html>
