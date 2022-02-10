@@ -7,8 +7,7 @@
     <title>Hola mundo</title>
 </head>
 <body>
-Mi primera pagina web en azure, gracias por entrar.<br>
-    
+  
     Esta es una prueba de que esta funcionando al integracion continua
 </body>
 </html>
